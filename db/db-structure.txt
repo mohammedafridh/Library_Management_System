@@ -1,0 +1,13 @@
+user: [id, name,gender,contact number, user type, email, password, status]
+
+
+book category: [id,category name, status]
+books: [id,book,category_id,book name,author, status]
+
+
+booking: [id, user_id, book_id, borrow date, return date, pending status, status]
+
+professor: [id,name,code, status]
+
+librarian: [id,name,code, status]
+

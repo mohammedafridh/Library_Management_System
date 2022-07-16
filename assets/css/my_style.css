@@ -1,0 +1,147 @@
+
+.page_container{
+	padding-left: 2%;
+	padding-right: 2%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.nav-item i{
+	padding-right: 5px;
+}
+
+.form-center {
+	
+	padding-left: 35%;
+	margin-top: 100px;
+}
+
+.fa{
+	padding-left: 6px;
+}
+
+.font-lobster {
+	font-family: 'Libre Baskerville', serif;
+}
+
+.img{
+	width: 100%;
+}
+
+.container {
+  
+  width: 100%;
+}
+
+/* Make the image responsive */
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+/* Style the button and place it in the middle of the container/image */
+.container .btn1 {
+  position: absolute;
+  top: 90%;
+  left: 80%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #555;
+  color: black;
+  font-size: 16px;
+  padding: 12px 24px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.container .btn1:hover {
+  background-color: white;
+}
+
+.error_msg { color: red; }
+
+.success_msg { color: green; }
+
+.edit{
+  position: absolute;
+  left: 80%;
+}
+
+.pro{
+  background-color: #2ECC71;
+}
+
+.frm-img{
+  background-color: #A3E4D7;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+
+.mrgn{
+  margin: 15px;
+}
+
+.pg-img{
+  background-image: url("../images/profile12.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#y_disabled 
+{
+  pointer-events: none;
+  cursor: default;
+}
+#n_disabled
+{
+  pointer-events: inherit;
+  cursor: inherit;
+}
+
+/*dashboard booking table*/
+#bkng_tbl {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#bkng_tbl th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+#bkng_tbl td, #bkng_tbl th {
+  border: 2px solid #ddd;
+  padding: 8px;
+}
+
+#bkng_tbl tr:nth-child(even){background-color: #f2f2f2;}
+
+#bkng_tbl tr:hover {background-color: #ddd;}
+
+/*books booking successfull css*/
+
+.scs{
+  color: green;
+  margin: 10px;
+  font-size: large;
+}
+
+/*.tbl_img{
+  background-color: #A3E4D7;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.pdng{
+  padding: 10px;
+  margin: 15px;
+}*/
+
+.page{
+  background-color: #4A235A;
+}
