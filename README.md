@@ -1,6 +1,6 @@
 #  Lowa State University (Library Management System)
 
-***Sign up to the system as a student if u dont have a code issues by the Lowa State university. 
+***Sign up to the system as a student if u dont have a registration code issued by the Lowa State University. 
 
 Library Management System is a project, which gives users the ability to 
 
