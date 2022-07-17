@@ -1,10 +1,12 @@
 #  Lowa State University (Library Management System)
 
+***Sign up to the system as a student if u dont have a code issues by the Lowa State university. 
+
 Library Management System is a project, which gives users the ability to 
 
 * Register/Login/Logout to the system.
 * Add/update/delete (books, profile, reservations, bookings & categories)
-* each user has a unique code when registering which prevents users from registering on other user types.
+* Librarian and professor has a unique code when registering which prevents students from registering on other user types.
 * Reservations will be cancelled after 24 hours
 * late returns will be charged a fine.
 * Book availability can be checked.
