@@ -19,3 +19,5 @@ More features will be added as per project requirements.
 * Bootstrap
 * Javascript
 * PHP
+
+You can fine the project live here [live] https://github.com/mohammedafridh/Library_Management_System/tree/main
